@@ -1,6 +1,6 @@
 {
-    "name": "hey_city_admin",
-    "short_name": "hey_city_admin",
+    "name": "my_portfolio",
+    "short_name": "my_portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
